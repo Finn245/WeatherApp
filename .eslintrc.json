@@ -13,7 +13,9 @@
     "import/prefer-default-export": "off",
     "import/extensions": "off",
     "no-plusplus": "off",
-    "import/no-extraneous-dependencies": "off"
-    //Add other rules if u needed too
+    "import/no-extraneous-dependencies": "off",
+    "class-methods-use-this": "off",
+    "prefer-arrow-callback": "off",
+    "func-names": "off"
   }
 }
